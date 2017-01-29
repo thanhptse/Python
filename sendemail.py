@@ -1,10 +1,10 @@
 import smtplib
 
 # Strings
-username = 'jvevermight@gmail.com'
+username = 'test@gmail.com'
 password = 'xxxxx'
 
-fromaddr = 'jvevermight@gmail.com'
+fromaddr = 'test@gmail.com'
 toaddr = 'thanhptse@gmail.com'
 
 # Content
